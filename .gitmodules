@@ -1,0 +1,3 @@
+[submodule "Dog-SecurityImplementation"]
+	path = Dog-SecurityImplementation
+	url = https://github.com/manyasi06/Dog-SecurityImplementation.git
